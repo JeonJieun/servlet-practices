@@ -32,9 +32,9 @@
 		</tr>
 	</table>
 	<br/>
-	<img src='/helloweb/assets/images/loopy.png' style="width:150px; border:1px solid #999"/>
+	<img src='/helloweb/assets/images/cat.png' style="width:150px; border:1px solid #999"/>
 	<br/>
-	<img src='assets/images/loopy.png' style="width:150px; border:1px solid #999"/>
+	<img src='assets/images/cat.png' style="width:150px; border:1px solid #999"/>
     <br/>
     <a href="form.jsp">폼으로가기</a>
     <a href="/helloweb/hello.jsp?name=안대혁&email=kickscar@gmail.com">hello</a>
