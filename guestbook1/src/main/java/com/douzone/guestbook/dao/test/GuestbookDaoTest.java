@@ -23,7 +23,6 @@ public class GuestbookDaoTest {
 		vo.setName("둘리");
 		vo.setPassword("1234");
 		vo.setMessage("안녕");
-		vo.setRegDate();
 		new GuestbookDao().insert(vo);
 	}
 

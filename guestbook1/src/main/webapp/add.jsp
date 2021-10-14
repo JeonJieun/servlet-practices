@@ -13,7 +13,6 @@
 	vo.setName(name);
 	vo.setPassword(password);
 	vo.setMessage(message);
-	vo.setRegDate();
 	
 	new GuestbookDao().insert(vo);
 	
