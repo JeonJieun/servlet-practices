@@ -10,7 +10,7 @@
 	<artifactId>emaillist01</artifactId>
 	<packaging>war</packaging>
 
-  
+	<!-- MariaDB JDBC Driver -->
 	<dependencies>
 		<dependency>
 			<groupId>org.mariadb.jdbc</groupId>
